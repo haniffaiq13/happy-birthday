@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/happy-birthday/static/css/main.4962b8eb.chunk.css",
+    "main.js": "/happy-birthday/static/js/main.30742bc3.chunk.js",
+    "main.js.map": "/happy-birthday/static/js/main.30742bc3.chunk.js.map",
+    "runtime-main.js": "/happy-birthday/static/js/runtime-main.8d3a2800.js",
+    "runtime-main.js.map": "/happy-birthday/static/js/runtime-main.8d3a2800.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/happy-birthday/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cb68933d.chunk.js": "/happy-birthday/static/js/2.cb68933d.chunk.js",
+    "static/js/2.cb68933d.chunk.js.map": "/happy-birthday/static/js/2.cb68933d.chunk.js.map",
+    "static/js/3.275648a0.chunk.js": "/happy-birthday/static/js/3.275648a0.chunk.js",
+    "static/js/3.275648a0.chunk.js.map": "/happy-birthday/static/js/3.275648a0.chunk.js.map",
+    "index.html": "/happy-birthday/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/happy-birthday/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4962b8eb.chunk.css.map": "/happy-birthday/static/css/main.4962b8eb.chunk.css.map",
+    "static/js/2.cb68933d.chunk.js.LICENSE.txt": "/happy-birthday/static/js/2.cb68933d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3a2800.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cb68933d.chunk.js",
+    "static/css/main.4962b8eb.chunk.css",
+    "static/js/main.30742bc3.chunk.js"
+  ]
+}
